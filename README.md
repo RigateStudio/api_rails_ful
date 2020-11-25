@@ -1,1 +1,3 @@
-# api_rails_ful
+# Ruby Api Ful
+
+THP Pratice, Lucas Gautier
